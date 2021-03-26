@@ -1,7 +1,7 @@
 package assignments;
 
 import java.util.Scanner;
-
+//program to find even and odd numbers
 public class Even_Odd {
 	public static void main(String[]args) {
 		int number;
